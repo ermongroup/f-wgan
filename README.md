@@ -12,7 +12,7 @@ See the `synthetic` folder for more details.
 
 ### Code for reproducing the image generation experiments
 
-Coming soon.
+See the `image_generation' folder for more details.
 
 ### References
 
